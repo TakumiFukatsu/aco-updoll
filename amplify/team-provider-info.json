@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-updollweb-dev-135232-authRole",
+      "UnauthRoleArn": "arn:aws:iam::386928554864:role/amplify-updollweb-dev-135232-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::386928554864:role/amplify-updollweb-dev-135232-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-updollweb-dev-135232-deployment",
+      "UnauthRoleName": "amplify-updollweb-dev-135232-unauthRole",
+      "StackName": "amplify-updollweb-dev-135232",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:386928554864:stack/amplify-updollweb-dev-135232/a2617cd0-78e3-11ec-a512-0a87a2b06ec1",
+      "AmplifyAppId": "dhp83z80vo1gr"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "dhp83z80vo1gr",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
